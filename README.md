@@ -19,7 +19,7 @@ Working Baseline: 1-minute and 5-minute SMT strategies on SPY and QQQ
 
 
 ### System Design
-parepare.py (frozen module)
+prepare.py (frozen module)
 - Data loading and preprocessing
 - Time-based train/test split (no random split to avoid look-ahead bias——want to restrict it to only see past information)
 - Fixed Sharpe ratio calculation
