@@ -17,6 +17,7 @@ Holding period (H) : Holding period (H): Number of bars a position is held after
 Threshold (T): minimum divergence required between assets 
 
 Working Baseline: 1-minute and 5-minute SMT strategies on SPY and QQQ
+    - maybe N = 3, H = 5 (1m) / 1 (5m), T = 0.001
 
 
 ### System Design
