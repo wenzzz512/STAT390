@@ -16,8 +16,7 @@ Lookback window (N swing definition): The number of past bars used to define loc
 Holding period (H) : Holding period (H): Number of bars a position is held after signal generation
 Threshold (T): minimum divergence required between assets 
 
-Working Baseline: 1-minute and 5-minute SMT strategies on SPY and QQQ
-- maybe N = 3, H = 5 (1m) / 1 (5m), T = 0.001
+Working Baseline: 1-minute and 5-minute SMT strategies on SPY and QQQ (Linear Regression)
 
 
 ### System Design
