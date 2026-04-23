@@ -33,6 +33,7 @@ train.py (editable module)
 - Parameter configurations (N, H, T)
 - Timeframe selection (1m, 5m, both)
 - Experiment logging (CSV output)
+    - Logging format is fixed in prepare.py, execution happens in train.py
 - Runtime measurement
 
 
