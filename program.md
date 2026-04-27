@@ -73,7 +73,7 @@ Goal:
 
 Performance is evaluated using:
 - Sharpe Ratio (defined in prepare.py)
-- Higher Sharpe is better
+- Higher Sharpe is better and must be at least greater than 1.0
 
 ---
 
