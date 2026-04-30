@@ -83,3 +83,6 @@ To evaluate a strategy:
 
 ```bash
 python run.py
+```
+
+
